@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\bin\Debug\Geometri Hesaplama.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\bin\Debug\Geometri Hesaplama.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\bin\Debug\Geometri Hesaplama.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\obj\Debug\Geometri Hesaplama.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\obj\Debug\Geometri Hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\obj\Debug\Geometri_Hesaplama.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\obj\Debug\Geometri_Hesaplama.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\obj\Debug\Geometri Hesaplama.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\obj\Debug\Geometri Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\obj\Debug\Geometri Hesaplama.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Geometri Hesaplama\Geometri Hesaplama\obj\Debug\Geometri Hesaplama.pdb
